@@ -1,0 +1,8 @@
+name: L2X9AntiIllegal
+version: '${project.version}'
+main: me.l2x9.antiillegal.Main
+authors: [ 254n_m ]
+description: A base plugin with gradle as the build system
+load: POSTWORLD
+depend:
+  - PaperAPIExtensions
